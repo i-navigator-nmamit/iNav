@@ -96,6 +96,27 @@ h2 {
     transition: background-color 0.3s ease;
 }
 
+/* lab info styles */
+.lab-section {
+    background-color: #282c34;
+    padding: 40px;
+    border-radius: 15px;
+    margin-bottom: 60px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+.lab-info {
+    margin-bottom: 20px;
+    color: #5fbcd3;
+}
+
+/* Hover effect for lab info */
+.lab-info:hover {
+    background-color: #3a3f4b;
+    transition: background-color 0.3s ease;
+}
+
 /* Button styles */
 .button {
     display: inline-block;
